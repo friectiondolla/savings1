@@ -29,3 +29,4 @@ public class ObjExport
 			
 			foreach(Vector3 vv in m.vertices)
 			{
+//good
